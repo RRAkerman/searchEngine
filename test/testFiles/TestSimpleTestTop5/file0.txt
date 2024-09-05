@@ -1,0 +1,406 @@
+The Subaru Impreza WRX STI is high performance specification model of the Subaru Impreza compact car line, manufactured by Japanese automaker Fuji Heavy Industries Subaru.
+
+In 1988, FHI created Subaru Tecnica International (STi) as a its motorsport division to develop and compete in the FIA World Rally Championship and other motorsports activities. Following the introduction of the first generation Impreza in Nov. 1992 and the following year's debut of the Group A rally car into the WRC, an 'STi version' was made commercially available in Jan. 1994 as a homologation model under FIA regulations. Thereafter, subsequent evolutions dubbed STi Version or simply STI were manufactured and sold alongside the Impreza model lineup initially in Japan only and later in selected world markets. As the STi or STI model was typically the highest spec of the Impreza, it has become popular with performance enthusiasts, tuners and amateur racers in many motorsports disciplines especially rallying and circuit driving. Used STI cars usually command a higher resale value and continue to be highly sought after.
+
+FHI has released many different models and versions including special limited editions of the WRX STI. However many of these versions were and are only available in the Japanese Domestic Market. Although the concept behind the STI model is taking a base model such as the Impreza or Legacy and further developing it for high performance, STI models fall mainly into 2 categories. The first is a fully developed and tested model with the purpose of homologating it for motorsports which is sold as a street legal road car. The second is a complete car pre-fitted from the factory with parts that are available from the STI catalogue and marketed as a 'Tuned by STI' model. Spin-off models with mainly cosmetic additions or alterations are also marketed usually in limited quantities.
+First generation (1994–2000)
+WRX STI
+1995 Subaru Impreza WRX STi RA
+Overview
+Production	1994–2000
+Body and chassis
+Body style	2-door coupé
+4-door sedan
+5-door station wagon
+Powertrain
+Engine	2.0 L H4
+Dimensions
+Wheelbase	99.2 in (2,520 mm)
+
+The first generation STI tuned road going cars were only developed and sold in the Japanese market. Although marketed by numerical version indicators up to 'Version VI' in the catalogue, there were in reality more than 20 different possible types of Impreza STI cars for sale. Many of these were in different body styles and some designed as a base for motorsports use. Others, such as the 22B were special limited versions but had different specifications. Visually it is hard to tell the difference between versions or the non-STI Impreza WRX. Unlike its rival car the Mitsubishi Lancer Evolution, which sported a quite distinct exterior design difference, the Impreza WRX and WRX STi version had mainly mechanical modifications. One way to identify the version is through the VIN plate on the chassis. Sedan and Coupé STi model codes are named GC8, (USDM coupés have a separate chassis code of "GM") and Station Wagons are named GF8, followed by a letter from A to G. A GC chassis version of the RS was released for the USDM in 2001. To tell the difference between a JDM Sedan and Coupe chassis from the applied model code only, a sedan will have the fifth digit as a 4, representing 4-doors, and a coupé will have a 2, representing 2-doors.
+Japanese
+
+Version I (01/94) – GC8B
+
+The first STi was known simply as WRX STi (there was no "version" moniker added to the name until the version II). 100 Imprezas per month were produced starting from February 1994. In March, production was stabilized to 100 STis a month. It had 250 PS (184 kW; 247 bhp) at 6500 rpm and 31.5 kgf·m (309 N·m, 228 ft·lbs) at 3500 rpm and weighed 1230 kg (2,710 lb). Before the STi, the highest trimline of the Impreza was the WRX and the WRX RA, first manufactured in November 1992. This version of the STi was the only version where the standard cars were taken at the end of the assembly line and replaced by STi parts. After this version, the standard STi was built alongside the WRX on the production lines.
+
+The WRX STi Type RA (marketing has made usage of the RA acronym in various ways; Record Attempt[1] is the current usage. "R = Racing, A = Group A, FIA the racing class the WRC Impreza competes in" has also been confirmed by Subaru of Japan; the correspondence can be seen on the discussion board for this article) strippo version produced 275 PS (202 kW; 271 bhp) and 32.5 kgf·m (319 N·m, 235 ft·lbs) of torque. This version of the WRX STi was a stripped out car that had no sound-deadening, radio or air-conditioning. It came sparsely equipped as it was to be sold to racing teams that would throw out the cheap parts for racing parts. This version of the WRX came with a Driver Controlled Center Differential (DCCD). This device was an electromechanical differential that could lock the differential. The DCCD would be beneficial to people who used it in various rally conditions.
+
+Version II (09/94 – 08/96) – GC8C
+
+The regular STi's engine output stood at 275 PS (202 kW; 271 bhp) and 32.5 kgf·m (319 N·m, 235 ft·lbs) of torque. This was the year that STi started painting the intake manifold red. The car weighed 1,240 kg (2,734 lb) and had gold wheels like those on the World Rally Championship Impreza.
+
+The V-limited STi edition was produced. It was a limited edition that was often used to celebrate a Manufacturer or Driver title award to Subaru's World Rally Team. The interior is colored blue on the seat inserts and carpeting. The WRX Type RA STi received a radio and air-conditioning in the V-limited form. 1000 WRX STi Version 2 V-limited were produced. 555 (the cigarette brand that was the premier sponsor of the Subaru World Rally Team and became synonymous with the Impreza WRC livery) WRX Type RA STi Version 2 V-limited were produced.
+
+Version III (09/96 – 08/97) – GC8D
+
+It developed about 300PS but output was reported at the then-established gentlemen's agreement power limit of 280 PS (210 kW; 276 hp). Torque peaked at 4000 rpm with a value of 35.0 kgf·m (343 N·m, 253 ft·lbs). In standard form, this version has a top speed of over 240 km/h. The car gained 10 more kilograms and weighed at 1,250 kg (2,756 lb). The STi shared the same face lift that the rest of the Impreza line received.
+
+With Version III came the start of the coupé version of the WRX STi. It is called the WRX Type R STi. The coupé was chosen by Prodrive for use in the WRC because it was lighter and stiffer than the 4-door version, although it carried the same exterior dimensions. It was essentially a 2-door version of the WRX Type RA STi meaning it had DCCD, minimal sound insulation, close-gear ratios and hardened gearbox. This car also has a water-spray nozzle to dampen the top of the intercooler. The water will then evaporate, taking heat away from the intercooler and cooling the intake charge. This car was produced on an order-only basis.
+
+Also, there was a WRX STI type RA (4-door) available in Version III. These have the same motor, gearbox and R180 diff as the Version III WRX STI Type R, including DCCD, aluminium bonnet and front guards, no sound deadening and thinner glass. The ECU is also an exclusive tune. The Type R tends to be a bit stiffer and weighs 1,190 kg (2,620 lb). The DCCD has been known to bite new drivers in the wet. The RA gets a roof vent instead of map lights, and wind up windows, although electrics are an option from factory.
+
+Also available was a WRX Type R V-limited, in version III. It has a WRX motor with no forged internals like the STI, and it misses out on the 4 pot front brakes as they are to be installed by rally teams. It has a roof vent and is lightweight, making a good base for a rally car. Version III STI runs a VF23 IHI ball bearing turbocharger while the JDM non-STI gets a VF22.
+
+Version IV (09/97 – 08/98) – GC8E
+
+Power remained at 280 PS but torque was raised from 253 lbs./ft of torque to 260. Forged pistons were also added. The interior and the cockpit were changed into a newer design along with the new "White color" gauges. (white faced)
+
+Version V (09/98-08/99) – GC8F
+
+The power stayed the same as the previous version 280 PS. The engine layout and design was made cleaner and was dubbed as the Boxer Phase 2 engine. The facelift the rest of the Impreza line had was also applied to the STi. The WRX STi weighed 1,270 kg (2,800 lb). There were 1000 WRX Type RA STi Version 5 Limited cars and the WRX Type R STi Version 5 Limited cars had a 4 month waiting period for each order. The interior was also changed slightly from the Version 4 including seats and steering.This model was also produced as a 555 limited edition.
+
+Version VI (09/99-08/00) – GC8G
+
+Most of the changes were cosmetic. The wing was sculpted to be more aggressive. VF28 spec turbo with max boost at 1.2 BAR and produced 224 kW (305 PS) and 388 Nm. There were 2000 WRX STi Version 6 Limited, 500 WRX STI Type R coupe Version 6 Limited and 2000 WRX STi RA Version 6 Limited cars produced. Also 500 WRX STi Version 6 Limited Hatchback models.
+
+Special editions
+22B STi (03/98 – 08/98)
+
+In 1998, Subaru of Japan produced a widebody, 2-door, Impreza called the 22B STi. The 22B was used to commemorate both Subaru's 40th anniversary as well as the 3rd consecutive manufacturer's title for Subaru in the FIA World Rally Championship. On the release of the sales, all 400 Japanese units sold out from 30 minutes to 48 hours, depending on the report.[2] The cars had the starting VIN code of GC8E2SD. Another 24 were produced for export markets – see the 16 22B Type UK below, along with another 5 for Australia, and 3 prototypes.
+
+The 22B had the EJ22 engine as opposed to the regular EJ20 engine. (Note internal Subaru material states the block comes from a V3 EJ20G, not the EJ22G as most think. Also the intake manifold and heads were from the V4 EJ20K) This means the displacement was increased from 1994 cc to 2212 cc. The block is a closed-deck design. The heads (valves, valvetrain and such) were lifted from the STi Version 4 engine. It produce 280 PS (210 kW; 280 hp) at 6000 rpm and 363 N·m (267 ft·lbf, 37.0 kgf·m) of torque at a lower engine speed of 3200 rpm. The redline is 8000 rpm. The compression is an 8.0:1. The turbocharger is an IHI RHF 5HB (the internal company usage code is VF23, although a number of the cars received the larger VF22).
+
+In performance terms, the donor STi Version 4 is capable of a 12.8 second quarter mile. The 22B, which carries an additional 20 N M of torque, has been timed at 12.5 seconds, however AWD cars can be difficult to launch, due to potentially bogging down if engine speed is too low, or the clutch is not correctly taken up.
+
+This car was given a unique color of blue and had fender flared widebody taken from the Peter Stevens designed WRC car, thus widening the width by 80 mm (3.15 inches) for a total of 1,770 mm (69.7). During assembly, a WRX Type R chassis was taken off the line. The fenders were replaced with the 22B STi fenders. The car's curb weight is 1,270 kg (2,800 lb). The suspension is provided by Bilstein. The brakes were Brembo manufactured standard 4-piston/2-piston brakes. However, the color is red and the Subaru name cast on the brake calipers and painted white. The wheels were increased in size from the standard WRX Type R STi from 16x7" to 17x8.5" BBS Elektra wheels. The car is fitted with 235/40 ZR17 Pirelli P Zeros. The clutch was upgraded to a sintered twin clutch with a ceramic disk. The transmission ratios are the same as the standard WRX Type R, but the gears were shot-peened for added reliability. The car has a unique hood, front and rear fenders, a WRC-inspired front bumper and a unique adjustable rear wing.
+
+The origin of the name 22B has often been debated. Many assume 22 referred to the 2.2 liter displacement, and the B was for the boxer engine or the Bilstein suspension. This would correlate with the idea that Subaru sells a Legacy Spec B, which also has a boxer engine and Bilstein suspension. Others believe that 22B was meant to represent the 555 cigarette brand was a major sponsor for Subaru in the WRC, as 22B is a hexadecimal representation of the decimal number 555.
+
+The 22B STi that is supposed to be #13 was never given the plaque. Subaru of America imported #13 to be used as a press car. Three prototype 22B STis were given the #000 plaque, 2 went to the World Rally car drivers for Subaru at the time Colin McRae and Nicky Grist, with the third being used by Subaru Japan as their press car. It was widely rumored David Lapworth of Prodrive owned the third #000 car, however he actually owned #400.[3]
+
+S201 STi (2000)
+
+Subaru Tecnica International started the S-series of special Imprezas. This series is a limited production series that sports an engine output of greater than 280 PS (210 kW; 280 hp) [had 224 kW (305 PS)] (special variant cars were excluded from the gentlemen's agreement). The car was decked with nearly every single part from the STi catalogue.
+
+The S201 was a 4-door STi that sported the only body-kitted S-series WRX STi. It had a tri-planar wing and a massive front airsplitter. The entire suspension was composed of STi parts.
+
+There were 300 S201s produced, they used a VF28 spec turbo, with max boost at 1.2 BAR and produced 224 kW (305 PS) and 353 Nm, weighing in at 1270 kg these are a highly desirable variant.
+United Kingdom
+
+22B Type UK (1998)
+
+16 of the 'export' 22Bs (see above) were modified by Prodrive, with longer gear ratios, UK specification lights and an official 3 year warranty. Because 50 22Bs had already been imported privately into the UK, Subaru UK had to wait until 1999 to register the 22B Type UKs under the VCA's Single Vehicle Approval scheme. The price was £39,950, approximately the same price that grey import 22Bs were being sold for.
+
+P1 (2000)
+
+To counter the grey imports of high-performance Japanese variants, Subaru UK commissioned Prodrive to produce an 'official' limited edition of 1,000 two-door cars in Sonic Blue.[4] The chassis was a 2-door coupé. They were taken from the STI Type R lines and used for the P1. The car was the only coupé version of the WRX STI GC chassis to receive ABS. In order to allow for ABS, the DCCD was dropped. Engine output was boosted to 276 bhp (206 kW; 280 PS), and the suspension optimised for British roads. Options were available from Subaru consisting of 4 piston front brake calipers, electric Recaro seats, 18" OZ alloys and a P1(Prodrive) stamped backbox. The P1, or Prodrive One, is echoed in the name of the Prodrive P2 concept car.
+Second generation (2000– 2008)
+Second generation (GDB-F)
+2006 Subaru Impreza WRX STI
+Overview
+Production	2000–2008
+Body and chassis
+Body style	4-door sedan
+4-door station wagon
+Related	Saab 9-2X
+Powertrain
+Engine	2.0L H4
+2.5L H4
+Transmission	6-speed manual
+5-speed semi-automatic
+Dimensions
+Wheelbase	2004–05: 100.0 in (2,540 mm)
+2006–08: 99.4 in (2,525 mm)
+Length	2004–05: 173.8 in (4,415 mm)
+2006–08: 175.8 in (4,465 mm)
+Width	68.5 in (1,740 mm)
+Height	56.3 in (1,430 mm)
+Curb weight	3,296 lb (1,495 kg)
+
+In 2000, the Impreza line received a complete update. The chassis was stiffened so that it had 120% torsional stiffness increase. The WRX STi gained 17" x 7.5" alloy wheels over the previous 16" x 7" wheels. The 5 speed manual transmission (reputed to be one of the car's weak points) was changed to an STi engineered 6 speed manual transmission. The engine was retained from the Version 6 STi and still retains the semi-closed deck block and is still labeled as the EJ207, however the engines did gain Variable Valve Timing (AVCS) further improving their low end torque production. The interior was updated with a STi logo on the gauge. The STi's tachometer also has a red shift light. The STi's and optioned Type RA STi have received Brembo 4 piston front and 2 piston rear brakes while the bare-bones Type RA STi still carried the Subaru 4 piston front and 2 piston rear brakes. Externally, the STis had larger hood scoops and had foglight covers with STi embossed on them. The DCCD was updated so it can work with anti-lock brakes. During braking, when the ABS is on, the DCCD will set itself to open-mode (no locking).
+
+The version nomenclature was dropped from the name. Japanese and other auto-enthusiasts often refer to the chassis as GDB/GDF (the STi has a 'B' or 'F'(for USDM models) whereas the regular WRX had an 'A'). The fourth character of the VIN gives the revision (A to F where G is the 2007 version).
+
+For quick and easy reference to the different exteriors, Subaru Impreza owners use nicknames based on the headlights. Often relating to a creature that has similar looking eyes: 2001–2003 are 'bug eyes' / 2004–2005 are 'peanut eye', or 'blob eyes'/ 2006–2007 are 'hawk eyes'.
+Japan
+
+Rev. A (2000)
+
+In 2000, the WRX STi received the aforementioned updates. The WRX Type RA STi was produced. The STi wagon was still produced but its engine only produced 275 PS (202 kW; 271 bhp) . The STi foglight covers had white STi lettering on them. The WRX Type RA STi was used for the Group N homologation.
+
+Rev. B (2002)
+
+Along with the rest of the Impreza line, the grille and body of the WRX STi was minorly updated by Peter Stevens to give it a more angular look when seen from the side. The foglight covers had pink STi lettering. Not much else besides minor suspension improvements and a small increase in torque output was done.
+
+The WRX Type RA STi was dropped for a new WRX STi Spec C. This model was much lighter than the WRX Type RA as it received lighter glass and body panels. The Spec C's handling was much improved due to an increase in caster (from 3.5 degrees to 5 degrees). This was achieved not by changing the suspension mounting point, but by lengthening the wheelbase (15 mm). This was done by including different control arms. This increased caster significantly helped the turn-in capabilities of the car. The Spec C also has a steering rack ratio of 13:1. The transmission is supplied with its own oil cooler.
+
+The WRX STi wagon had ceased to be produced.
+
+Rev. C (2003)
+
+Little change from Rev. B.
+
+The WRX STi was used for Group N homologation.
+
+Rev. D (2004)
+
+The WRX STi received the same Peter Stevens-designed facelift that rest of the Imprezas received. The WRX STi is now capable of being ordered with DCCD.
+
+The WRX STi Spec C Type RA was released. It sported a carbon-fiber wing and a carbon fiber lip. It also had a new set of BBS wheels as well as a newly tuned engine.
+
+The WRX STi V-Limited was released. It sports 4-way dampers tuned by Subaru World Rally Team's Group N driver Toshi Arai. The WRX STi was used for Group N homologation.
+
+Rev. E (2004)
+
+This was the first Impreza STi model to be offered in the United States. Subaru unveiled this model in the Detroit International Auto Show, only 1 month after Mitsubishi announced the arrival of the 271 horsepower Lancer Evolution 8, which out-performed the 2.0L WRX.
+
+The 2004 WRX STi is considered to be the lightest (3263 lbs, official brochure and tested by Car & Driver Magazine) and rawest among 2004–2009 models. The car was sold in the US without a radio or floormats. The car was rated at 300 bhp and 300 lbs-ft torque, although many feel it was under-rated on purpose. What made the car so special to most is the level of performance offered for a mid 30 thousand dollars car, that still has a back seat and a big trunk.
+
+Since its launch, many upgrades became available to increase power, handling and braking capabilities.
+
+Some weak links were discovered in most 2004–2007 models since the 2004 debut. The oil pickup line inside the oil pan was shown to develop a crack leading to oil starvation and engine damage due to the lack of lubrication when the part fails. Several aftermarket vendors have addressed this issue by re-designing factory oil pickup units with more substantial welds and materials.
+
+Rev. F (2005)
+
+The WRX STi receives the same increase in wheelbase as the Spec C. All STis received additional rear arch flaring in order to allow an increase in wheel size. The wheel size changed from 17" x 7.5" to 17" x 8". In accordance with the increased wheel width, steering lock-to-lock turns have been reduced. Wheel hub strength was improved. The P.C.D. was changed from 5 x 100 mm to 5 x 114.3 mm. The interior was vastly improved as well. A whole new center console now brings out a very high grade interior feel.
+
+The WRX STI continues on relatively the same. The Impreza line's looks have been updated.
+
+The WRX STI Spec C's receives the Arai tuned dampers and a 21 mm (0.8 in) swaybar. The rear suspension is changed from rubber bushings to pillowball bushings. The strut tower was further stiffened for improved handling and stability. The strut towers were reinforced for better handling and better ride characteristics. The engine mounts were changed from metal to liquid-filled plastic mounts to reduce vibrations into the car's cabin. Some 2006 owners have had issues with these plastic engine mounts. The manufacturer will replace them, under warranty if broken, with the 2005 rubber mounts.[5]
+
+The DCCD is updated with the use of a torque-sensing mechanism inside the DCCD. The torque split is changed to 41/59.
+
+The WRX STI Spec C was used for Group N homologation.
+
+The WRX STI Spec C Type RA was released in November 2005, with 350 units produced. The Type RA added the following to the Spec C model from the STI parts catalogue: 4-way STI adjustable inverted struts, STI Japan-spec pink springs, STI rear lateral links, STI rear trailing links, STI 21 mm (0.8 in) rear sway bar, STI rear pillowball suspension, STI 110 mm (4.3 in) opening rear axleback exhaust, STI 17" x 8" Enkei-made wheels and STI V-lip front spoiler.
+
+Rev. G (2007)
+
+The WRX STI and STI Spec C is mechanically similar to the previous revision.
+
+Changes include a different turbocharger VF43 equipped with a slightly larger wastegate port to prevent boost creep (VF43, as opposed to VF39 in the older version) and revised gearing on the 6 speed manual transmission. They also use top feed injectors instead of side feed injectors like the previous STi models(04-06USDM). This means the intake manifold is a bit different as well as the TVG (Tumble Valve Generators) used for emissions on cold start-ups.
+
+Special editions
+S202
+
+This car was an S-series Impreza based on the Spec C. All of the suspension and powertrain parts included STi parts from the STi part catalogue. The interior included special edition yellow seats with red STi logo stitching. A smaller, lightweight AC compressor was fitted to save weight. The brake rotors were gas slotted. The wheels were STi labeled Rays Volk alloys.
+
+S203
+
+This limited edition Subaru was an S-series Impreza based on the WRX STi. Again it is basically a car with all the STi parts available. It was sold with custom made 18-inch (460 mm) BBS alloys with Pirellis.
+
+S204
+
+The new S204 was released at the end of 2005. It is based on the WRX STi and similar to the S203. It does away with the roof spoiler and has a different grille from the rest of the Impreza line. The S204 has a two-litre (EJ20) H4 engine capable of developing 324 PS (239 kW; 320 bhp) and a six-speed manual gearbox. When cruising the S204 achieves 100 km/h (62 mph) at 3000 rpm in top gear and can reach 220 km/h (137 mph) at approximatively 6600 rpm.
+
+Suspension can be described as 'stiff' with torsional rigidity enhanced by the inclusion of laterally mounted items described as "performance dampers" bearing both the STi logo and Yamaha. As a result cornering can be described as excellent. The addition of a carbon fibre front-lip spoiler and a rear diffuser on an already low suspension setup plus the use of low-profile Pirelli P Zero (Corsa) tyres implies the S204 is intended mostly for sealed road use.
+
+Recaro has used carbon-fibre extensively in the manufacture of the driver and front passenger seats available in the S204. The high side bolsters provide significant support to the driver during maneuvers that induce lateral forces and are considered to be an integral feature to the cornering performance of this vehicle. The seats are rigid in design and have relatively little cushioning compared to other Impreza Models.
+
+    Internal rear view of Recaro Seats in the Subaru S204. Note: Use of carbon fibre in construction.
+    Internal rear view of Recaro Seats in the Subaru S204. Note: Use of carbon fibre in construction.
+    Internal front view of Recaro Seats in the Subaru S204. Note: High side bolsters for lateral force support.
+    Internal front view of Recaro Seats in the Subaru S204. Note: High side bolsters for lateral force support.
+
+Advertising material produced by Subaru for the S204 indicate that a limited run of 600 S204's were made. Individually numbered badges for each car are located within the engine bay and repeated as a small plaque situated at the base of the gear lever. However, five (5) WRX STI S204 were made available to Subaru enthusiasts in New Zealand.[6] Unlike other S204s sent to other nations (for example 30 units for Singapore) these five cars do not display either the in-cabin or in-engine bay badging that uniquely identifies each of the reported 600 vehicles manufactured. The lack of individual badging for these five cars brings into question the real number of S204s manufactured.
+
+WRX STI Spec C Type RA-R
+
+At the end of October, 300 2007MY WRX STI Spec C Type RA-Rs were open for ordering. These cars are based on the WRX STI Spec C. The wheels are changed for 18-inch (460 mm), STI-branded, Enkei-made, white wheels. The engine has been blueprinted and balanced. It produces 320 PS (235 kW; 316 hp) of power. The suspension is built with the latest STI parts from the STI catalogue. The front brakes are 6-piston brembo brakes. The turbo charger is based on the larger S203/S204 twinscroll unit. The brakes are made so that they change from silver to gold when heated from usage. The rotors are slotted. The 2nd R in "RA-R" is stated by an STI engineer to mean "Radical".February 2007 Edition Best Motoring Interview of STI engineer at 7:00 [Video no longer available]
+
+WRX STI A-Line
+
+This WRX STI A-Line is mechanically the same as the Japan-spec STI. The exterior has been toned down with the removal of large rear spoiler, black Brembo brakes, titanium colored Enkei wheels, a black STI front lip and leather seats in order to target the more mature market.
+Asia, Australasia, and Europe
+
+In 2000, most of Asia, Oceania and Europe received the new STi. The engine was detuned to meet emission standards. Engine output was variously rated from 265 PS (195 kW; 261 hp) to 280 PS (210 kW; 280 hp) depending on market.
+
+2005 STis received the long awaited DCCD control available in other markets, as well as a slight wheelbase increase to match the Japanese-spec WRX STi Spec-C and has 280 PS (210 kW; 280 hp).
+
+In 2006, the model was facelifted like all STIs and the engine was changed to the EJ257 producing 280 PS (210 kW; 280 hp).
+
+    Subaru Impreza WRX STI 2006 – front (Australian-spec)
+    Subaru Impreza WRX STI 2006 – front (Australian-spec)
+    Subaru Impreza WRX STI 2006 – rear
+    Subaru Impreza WRX STI 2006 – rear
+    Subaru Impreza WRX STI 2006 – engine
+    Subaru Impreza WRX STI 2006 – engine
+    Subaru Impreza WRX STI 2006 – interior driver side
+    Subaru Impreza WRX STI 2006 – interior driver side
+    Subaru Impreza WRX STI 2006 – interior driver seat
+    Subaru Impreza WRX STI 2006 – interior driver seat
+    Subaru Impreza WRX STI 2006 – rear badge
+    Subaru Impreza WRX STI 2006 – rear badge
+
+
+North America
+
+Rev. D (2004)
+
+In 2004, Subaru of America announced it would sell the WRX STi. Subaru Tecnica International's president said in an interview with Road & Track magazine that he wished to beat the Mitsubishi Lancer Evolution in the US. Thus, each iteration of the US-spec WRX STi is essentially the same as the respective J-spec STi Spec C. All part numbers matched up, including the part-numbers for the glass windows and dampers. However, instead of the EJ207, the USA receives the first EJ257, a 2.5 liter version of the EJ207. Unlike the EJ207, it features hypereutectic cast pistons as opposed to the forged pistons in the EJ207. The steering rack is the standard STi's 15.2:1 instead of the Spec C's 13:1
+
+Rev. E (2005)
+
+As with the Japanese-spec C models, US-spec STis received additional rear fender flaring in order to allow an increase in wheel size. The wheel size went from 17" x 7.5" to 17" x 8". In accordance with the increased wheel width, steering lock-to-lock turns have been reduced. Wheel hub strength was improved. The P.C.D. was changed from 5 x 100 to 5 x 114.3. The Suretrac front LSD in the 04 model was replaced with a helical unit, the rear differential remains the same clutch type unit. Torque split is set at 35/65. In the interior, the Stereo became standard. The badging has been revised and different look was given to the steering wheel, shift knob, HVAC controls, and center console.
+
+Rev. F (2006)
+
+The US-spec STIs receive the same facelift as the Japanese-spec STIs. Mechanically speaking, the DCCD (Driver Controlled Center Differential) and the engine mounts have been changed. Like the Japanese-spec STIs engine mounts were changed from metal to liquid-filled plastic mounts to reduce vibrations into the car's cabin. On the largest Impreza forum, North American Subaru Impreza Owners Club (NASIOC), 2006 owners have had issues with these plastic engine mounts. The manufacturer will replace them, under warranty, if broken, with the 2005 rubber and metal mounts. Later 2006 vehicles were equipped from the factory with 2005 mounts. The center differential is updated with the addition of a mechanical limited slip mechanism to supplement the electromagnetic DCCD. The torque split is changed to 41/59. The oil pump within the transmission was also deleted. The 2006 STI weighs approximately 3,350 lb (1,520 kg).
+
+Rev. G (2007)
+
+2007 US-spec Subaru Impreza WRX STi Limited. Only 800 were produced
+
+In 2007, quite a number of changes were made to the US-spec model. Due to Subaru's decision to reduce costs by cutting the amount of aluminum used, the US-spec STI no longer receives the J-spec Spec C control arms. The control arms are now the aluminum ones used on the Japan-spec revision A and B non-Spec C STis. The high caster angle has been reduced, which in turn reduces the wheelbase from 100" to 99.4". The rear sway bar has decreased in size from 20 mm (0.8 in) to 19 mm (0.7 in). The gear ratios of second, third and fourth gears have been made longer (higher ratio) in order to improve fuel economy and driveability, which inadvertently reduces 1/4 mile drag racing times due to the ability to trap 114 mph (183 km/h) in 4th gear, without the shift to 5th. The transmission oil pump that was deleted in the 06 model year was also brought back for the 07 model year transmission. The EJ257's cylinder heads have been redesigned to improve cooling, and the sodium-filled exhaust valves have been deleted. Pistons are the same as previous years. The alternator is changed from a 90A rating to 110 amps. The rear Limited Slip Differential is now a Torsen unit, considered an upgrade over the previous model's clutch type unit. The turbo has also been changed to the VF43, which has a different wastegate actuator than the VF39. The side cowl braces are stiffer than the 2006MY. The engine mounts are once again the hard rubber mounts used prior to 2006. On the interior, there is an audio jack that replaces the ashtray, a rear center armrest with trunk pass-through and a 120 W audio system.[2]
+
+The ECU was completely re-engineered in order to meet US LEV2 emissions requirements, which has caused throttle and timing issues. A secondary air pump was also added to help meet LEV2. Top Feed injectors replaced the Side Feed from the previous models.
+
+The WRX STI Limited was introduced with fog lights, leather interior, lip trunk spoiler, and optional moonroof. It is similar to the Japan-spec WRX STI A-line, except the mechanicals of the car are based on the 2007MY US-spec WRX STI.
+United Kingdom
+THE UK version of the WRX STI, taken at the Canary Wharf motor expo in June 2007.
+
+WR1 (2004)
+
+A limited edition of 1000 Japanese MY04 WRX STI's with DCCD were exported to celebrate victory in the 2003 WRC drivers' championship.
+
+500 were sold in Europe, Australia and South Africa as the Petter Solberg edition; the other 500 were further modified by Prodrive and sold in the UK as the WR1. They had 320 bhp (239 kW) and 309.8 ft⋅lbf (420.0 N⋅m), an incredible 0–60 mph time of only 4.25 seconds and a top speed of 155 mph (249 km/h) (electronically limited). They were equipped with Prodrive WRX STI springs, Pirelli PZero Nero tires, mesh grilles, special Ice Blue metallic paint and Prodrive PFF7 Pewter wheels. The new ECU and exhaust were not EU-homologated, so they were fitted after registering the car. The retail price was £29,995.
+
+Spec D (2006)
+
+Subaru Impreza RB320
+
+A 'discreet' version of the STI was made for a more conservative market. It is similar to the Japanese-spec A-Line except it had a regular WRX spoiler on the boot, silver wheels (not Gold) and no rear roof vane. As standard it has projector-style fog lights, Smartnav with touch screen operation, Vehicle Tracker,and safe speed system. A 200W Pioneer DEH-P70BT head unit, iPod adapter and Bluetooth phone connection were also included. The interior featured standard leather trim on the seats and doors, Auto climate control and extra sound insulation. It was limited to a run of 300 cars in only Crystal Grey Metallic so therefore is even rarer than the RB320. Power on this model is rated at 276 bhp (206 kW). It has a 0–60 time of 5 seconds and a top speed of 155 mph (electronically limited). New retail price was £28,450.
+
+RB320 (2007)
+
+Echoing the RB5 a limited edition of 320 2007MY cars in Obsidian Black Pearl were released "in memory of Richard Burns", the 2001 WRC World Champion who died in 2005 due to a brain tumor. The car produces 320 PS (235 kW; 316 hp) of horsepower and 450 N⋅m (332 lb⋅ft) of torque due to tuning by Prodrive. The suspension has been upgraded with Eibach springs, an Eibach rear stabilizer bar and Bilstein struts. It rides on 18" anthracite alloys. A £1500 option on the car was to have the interior changed to a black leather/alcantara with RB320 stitching on the seat and a new gear (shift) knob. The car has special silver mesh grilles. New retail price was £29,995.[7]
+Third generation (2008–2014[8])
+Third generation (GR)
+2008 Subaru WRX STI hatchback
+Overview
+Production	2008–2014
+Body and chassis
+Body style	5-door hatchback
+4-door sedan (2011–)
+Related	Subaru Forester
+Subaru Impreza
+Subaru Impreza WRX
+Powertrain
+Engine	2.0L 304 hp (227 kW) H4
+2.5L 305 hp (227 kW) H4
+Transmission	6-speed manual[9]
+5-speed automatic (w/SPORTSHIFT manual mode) (Japan, Hong Kong, Singapore, Indonesia, and Australia only)
+Dimensions
+Wheelbase	103.3 in (2,624 mm)
+Length	173.8 in (4,415 mm)
+Sedan: 180.3 in (4,580 mm)
+Width	70.7 in (1,796 mm)
+Height	2009–2010: 58.1 in (1,476 mm)
+2011–: 57.9 in (1,471 mm)
+Curb weight	3,373 lb (1,530 kg)
+2008–2010
+
+The 2008 STI has received a higher degree of parts to differentiate it from its Impreza WRX brethren. Unlike the Impreza WRX, the STI uses aluminum suspension components, and has different fenders that are 2.2 in (56 mm) wider. It adopted "Subaru Intelligent Chassis Design" and "Dynamic Chassis Control Concept". The turbo forces air through a larger top-mount-intercooler which has lost the red "STI" that was on previous generations. It is the first generation of this model with an automatic transmission which is able to import to outside Japan.
+
+Like other 2008 Impreza models, the 2008 STI benefits from a lower polar moment of inertia due to smaller overhangs, and also features a double wishbone rear suspension.[10] The car also borrows new intake and exhaust components from the Legacy GT platform.
+
+The latest Impreza WRX STI features Multi-mode Vehicle Dynamics Control (VDC) with "Normal", "Traction", and "Off" modes, Subaru Intelligent-Drive (SI-Drive) with three modes: Intelligent, Sport, and Sport Sharp (S#), and Multi-mode Driver's Controlled Centre Differential (DCCD). The DCCD enables driver to select the manual or auto: "auto", "auto+", and "auto-" mode in order to distribute the torque based on driving preference or conditions.
+Subaru Impreza WRX STI hatchback (Japan)
+
+The JDM version has a 2.0L 308 PS (227 kW; 304 bhp) EJ207 engine with a twin scroll turbocharger, while other versions of the car have a 2.5L 300 PS (221 kW; 296 bhp) EJ257 engine with a single-scroll VF48 turbocharger.
+
+At the New York Auto Show, a Subaru spokesman confirmed that the Impreza WRC will be based on the hatch platform, due to its lower polar moment of inertia.[10]
+
+The latest US model of the STI has 305 bhp (227 kW; 309 PS) and 290 ft⋅lbf (390 N⋅m). of torque and range in price from $35,640 to $39,440, depending on the options included. The 2008 Impreza STI has the model code GR, reflecting the different "wide body" 5-door Hatchback compared to the GH standard body 5-door Hatchback used for the 2008 Impreza WRX and non-turbo models. The new "wide body 5-door" chassis is 70.7 in (1,796 mm) wide compared to 68.5 in (1,740 mm) for the regular WRX 5-door chassis. Curb weight varies from 1,505 kg (3,318 lb) to 1,540 kg (3,395 lb) depending on the options.
+
+In 2008, a Subaru WRX STI spec C was in the works for production. It had been spotted lapping the Nurburgring. It is expected to shed 70 kg (154 lb) in weight, have minor engine tweaks, have an updated aero kit, and bigger brakes.
+
+A possible precursor to the WRX STI spec C had surfaced at the MotorSport Japan 2008 auto show, named the Subaru Takumi concept. The only visual cues to differentiate this car from the regular STI are a blacked-out rear spoiler, front lip spoiler, and 12-spoke wheels that are strikingly similar to the ones featured on the spec C test mule spotted around the Nurburgring. The upgraded parts included on the car are drivetrain and suspension modifications. There is no word on performance figures or power output. It was later confirmed by Autoblog that the Takumi concept was in fact just an unveiling of the 20th Anniversary Edition WRX STI and not the spec C.[11] All 300 examples will be exclusive to the Japanese market.[11]
+2011 Subaru Impreza WRX STI A-Line
+
+Subaru launched the Impreza WRX STI A-Line with a five speed semi-automatic gearbox on February 24, 2009. Available initially only in Japan and Singapore, the A-Line features include "Downshifting Blipping Control" and steering wheel-mounted paddles.[12] The engine and transmission in the A-Line are very similar to 2007–2009 Legacy 2.5 GT models. However, the A-line has less torque (35.7kgfm) and slower acceleration (0 to 100 km/h takes 6.1 seconds) compared to the manual STI version, although lighter (1,490 kg vs 1,505 kg). The A-Line is also offered in Hong Kong, and later in Indonesia with debut at the 2010 Indonesia International Motor Show in July 2010, and will be exported to Australia in 2011.[13]
+
+Finally, on July 23, 2009, the Subaru Impreza WRX STI spec C was released in Japan. The 900 units limited edition WRX STI spec C has engine, suspension, and body parts improvement over the regular model. The ball bearing on the turbine axle had been modified to reduce friction, the ECU had been retuned for better response, and an intercooler water spray was fitted to prevent rise in the air temperature. The cross member, suspension and power steering were also improved for better handling and body rigidity. Aluminium hood, laminar window glasses, and lighter battery helped to reduce weight.
+
+Subaru (UK) Limited introduced two new WRX STI models at the British Auto Show that have specific tuning by Prodrive. The first is WRX STI 330S, intended to compete with the UK-spec Lancer Evolution X FQ-330. It produces 330 PS (243 kW; 325 bhp) and has a 0–60 mph time of 4.4 seconds. The last of the two was the WRX STI 380S. It could make it into production within 6 months, pending positive consumer reception. It sports new wheels and an upgraded body kit. It is expected to produce 380 PS (279 kW; 375 bhp). Currently, there are no other specs for the car. Subaru announced, on September 10, 2008, that the 380S variation will not be produced, due to homologation and specification difficulties. The regular model is called WRX STI Type UK.
+2010 Subaru Impreza WRX STI with optional BBS wheels
+
+The Singaporean, Indonesian, and Australian (all RHD countries) markets received the 2.5 liter Euro-spec version instead of the J-spec version, producing 296 horsepower (221 kW) and 407 N⋅m (300 lb⋅ft) of torque.[14] Some of Impreza WRX STI's sold in Indonesia are the 2.0 liter JDM spec brought by the general importers before Subaru officially introduced the 2.5 liter model. In Australia the regular WRX STI is sold alongside the WRX STI spec.R which comes with BBS wheels and Recaro seats.
+
+For 2010 model year, Subaru of America introduced the Impreza WRX STI Special Edition. Similar to JDM WRX STI Spec C, this model came with stiffer suspension and thicker stabilizer bar for better handling. It also has 7 twin-spokes dark gray 18 inch alloy wheels. Inside, the limited-run Special Edition STI got manual air conditioner and 4-speaker stereo instead of automatic climate control and 10-speaker premium audio on the regular WRX STI.
+2010–2012
+2011 Subaru Impreza WRX STI sedan (Europe)
+
+In 2010 for the 2011 model year Impreza WRX STI was offered in the four-door Sedan body style once again after a three year absence from the STI line-up since the introduction of third generation model. The new WRX STI Sedan is built as "wide body" with flared fenders, front skirts, and rear valance, while the Hatchback model also comes with similar treatments. The most noticeable feature on the STI Sedan is a large rear wing, characteristic of the last generation Impreza STI Sedan. With the new front bumper, the 2011 Impreza WRX STI is more aggressive compared to 2008–2010 models. The 2.5 flat four turbocharged engine with 305 horsepower is carried over, while tweaks in suspension improve handling. The 2011 model year STI has stiffer springs, bigger anti roll bars, and new pillow ball bushings on the front lower arms, as well as wider standard tires .[15] Also, US dealers are now requiring synthetic oil for 2011 models. It is officially claimed to do 0–60 mph in 4.9 seconds and the quarter mile 13.7 seconds. Officially called the Subaru WRX STI 4-door and Subaru WRX STI 5-door, US-market versions adds the Impreza model name.[16]
+
+Australia also received the 2011 model year WRX STI as 4 door Sedan and 5 door Hatch in the regular STI and luxury STI spec.R with manual and automatic transmissions offered.[17] Electric sunroof, Leather seats, Navigation system, and BBS wheels are standard on the STI spec.R, while Recaro seats are optional.
+United Kingdom
+
+Available for the UK market only, the Cosworth Impreza STI CS400 was announced in late May 2010.[18] Only 75 units built, the STI CS400 is powered by a 400 PS (294 kW; 395 hp) The Cosworth-tuned, turbocharged vehicle is one of the world's most accelerative hatchbacks. The renowned 2.5-litre turbocharged Boxer engine is transformed to produce 33% more power, drawing heavily on Cosworth's extensive Formula 1 experience. The engine, which drives all four wheels via a six-speed manual gearbox, boasts an impressive 400 PS and the new model reaches 62 mph in just 3.7 seconds, going on to cover a quarter mile (1/4) in 12.75 seconds at a terminal speed of 107 mph. Top speed is limited to 155 mph.[19] 2.5 liter turbocharged engine has Cosworth engineered forged connecting rods, racing pistons, heavy duty cylinder head studs, multi-layered head gasket, and high pressure oil pump. The ECU had been remapped, and the new compressor design and wastegate actuator had been applied to the turbo. The exhaust system features larger capacity tubular manifold and bigger diameter downpipes. Clutch was also upgraded.
+
+The Cosworth Impreza STI CS400 can be distinguished from the regular STI from its upper mesh grille with piano black finish on the top frame, modified front bumper with "Cosworth" emblem on the lower mesh grille, and lip spoiler, 18 inch Pro-Race alloy wheels in Antrachite Gray, and trunk waist spoiler.
+
+To match its performance, the CS400 comes with Bilstein struts and Eibach springs for better quality ride, and better handling with less pitch and roll during cornering. Braking was updated by AP Racing's larger diameter ventilated front brakes with six-pot calipers.
+
+Inside, the CS400 has Recaro leather seats with "Cosworth" label, piano black center console panel, and "Cosworth"-badged floor mats.
+	Japanese version 	Export version 	A-Line (JDM)
+Turbo 	twin-scroll turbo 	single-scroll turbo 	single-scroll turbo
+Displacement 	1994 cc 	2457 cc 	2457 cc
+Power 	308 PS (227 kW; 304 hp) 	300 PS (220 kW; 300 hp) 	300 PS (220 kW; 300 hp)
+RPM 	6,400 	6,000 	6,800
+Torque 	43.0 kg⋅m (422 N⋅m; 311 lb⋅ft) 	41.5 kg⋅m (407 N⋅m; 300 lb⋅ft) 	35.7 kg⋅m (350 N⋅m; 258 lb⋅ft)
+RPM 	2,800–4,400 	4,000 	3,000–6,000
+2012–2014
+
+Although the 2011 model year of the STI shared the most updates, the 2012 STI received several minor revisions and updates compared to the previous years. In 2012, Subaru updated the STI's infotainment system with a new radio including an iPod jack for the first time.[20]During the 2012 SEMA auto show, Subaru announced a special edition STI variant for the model year 2013. In 2013, Subaru released a special edition of the STI named the "Orange and Black Special Edition Package" in the U.S. The special edition variant came with an exclusive color called "Tangerine Orange".[21] The special edition variant also came with black STI embossed livery above the rocker panels on the driver and passenger side as well as orange stitching embroidered along the interior. Subaru only manufactured 100 units for the STI version and only 200 units for the WRX version.[22] 2014 was the last year of the 3rd generation STI, there were no significant changes made, as the 2014 model year had the same styling, trims, features, and options as the 2013 model year with the exception of the Orange and Black Special Edition Package being discontinued.
+S206 Variant
+
+In Japan, Subaru released a special edition STI named the S206 for the 2012 model year. The S206 features the 2.0L EJ207 found exclusively in Japan. Though this time the engine is assembled by hand, balancing different components such as pistons, connecting rods, and the crankshaft before fully assembling the engine. It produces 316 hp (320 PS) and 318 lb-ft of torque (235 kW). This gave the S206 a noticeable 11 hp and 28 lb-ft of torque upgrade in power. Since the STI S206 is a Japanese Variant, it features a twin-scroll ball-bearing turbo, a newly revamped ECU, and upgraded exhaust system with that is more free flowing compared to the standard STI. While the suspension of the S206 came primarily off the regular STI platform, Subaru added a carbon fiber roof and flexible draw stiffener which made a notable difference to drivers coming out of a standard STI. Subaru only manufactured 300 of these S206's, stickered at approximately 8,356,000 Japanese Yen (JPY) or 76,000$ (USD) brand new, making the S206 variant a rare, hard to find version of the STI.[23]
+The Successor (VA 2015-2021)
+
+On January 14, 2014, Subaru announced and debuted the successor to the Impreza WRX STI at the Detroit Auto Show.[24] For the first time in the STI's nameplate, Subaru created an all-new VA chassis that was not based on the Impreza chassis anymore. The 2015 STI was now solely named the WRX STI instead of Impreza WRX STI. The new chassis was notably stiffer and featured quicker steering response. Subaru continued to use the EJ25 port injected turbocharged engine in the VA STI's. Subaru also continued to use the EJ25 engine, which still had the same 305 hp and 290 lb-ft of torque output as all the previous generations had.[25] Subaru made refinements to the interior, notably soft touch, higher quality door panels as well as the dashboard having soft touch material. Furthermore, Subaru also revised the gauge cluster and infotainment center, introducing a new standard 3.5-inch LCD multi-function display located in the center of the gauge cluster, as well as a standard 4.3-inch overhead display showing relevant information such as the backup camera, climate control and a new boost gauge. Non-limited trims came with a standard radio and the limited trims had an optional 7-inch infotainment screen with navigation. Other options such as the Harmon Kardon audio system and power moonroof were available on the limited trim STI's. On November 16, 2014, Subaru announced pricing for the new 2015 WRX and WRX STI.[26] 2021 was the last year of production for any WRX STI vehicles, ending the WRX STI name for the meantime. Subaru plans to introduce an all-electric STI in the near future. For more relevant information on the VA generation Subaru WRX STI, visit the Subaru WRX STI page.
+Motorsports
+Rally
+2006 Subaru Impreza S12 WRC, a car based on the design of the '06 spec (Rev. F).
+
+FIA PWRC
+
+The STi serves as the basis from which Group N "production" rally cars are constructed. Group N5-classed (marketed by FIA as Production Car World Rally Championship or PWRC) cars are the major support category for the World Rally Championship and are the premier category in many national rally championships. For two years (2004 and 2005), the WRX STi has taken the top 3 podiums in Group N. This new effort can be attributed to STi's increased support in Group N motorsports..
+
+FIA WRC
+
+In 1995, 1996 and 1997 World Rally Championships, the Subaru World Rally Team, in conjunction with Prodrive won the WRC manufacturer's title with the World Rally Impreza. The STi's bare chassis is used by Prodrive as the basis of the World Rally Impreza. This WRC class is currently labeled by FIA as Group A8. Colin McRae in 1995, Richard Burns in 2001, and Petter Solberg in 2003 all won the WRC driver's title with the World Rally Impreza.
+
+Rally America
+
+The STI has been a prominent contender in Rally America events since the series began in 2005. The STI has won every championship except for one (2010 L'Estange/Mitsubishi Lancer Evolution X). Recently, Subaru factory driver Dave Higgins drove a 2011-spec STI to a series victory.
+Autocrossing
+
+JAF Events
+
+An STi Spec C won 1st place in the All Japan gymkhana championships of 2004. Chris Torres was the driver. Sheridan and RJ were involved in a collision around turn 453
+
+SCCA Events
+
+In 2005, a 2004 STi took first place in the STU class of the Tire Rack SCCA Solo Nationals. The next year at the Tire Rack SCCA ProSolo in Topeka, Kansas, STis took first place in the AS and STU classes; an STi took first place in the STU class at the Tire Rack SCCA Solo Nationals that same year.
+Road racing
+
+FIA Events
+
+In 2005, Chris Deable took a STI-supported WRX STI to 2nd place in the A6 class and 14th overall in the 24-hour Nürburgring race. The car was set up to have around −5 degrees of camber at the front wheels. The wheels are Enkei pieces. The car also uses the roof vane seen on the 2006MY WRX STI. The car used Tein SRC coilovers. The car was driven by Kazuo Shimizu (Super Taikyu driver and winner), Toshihiro Yoshida (Super Taikyu driver and winner), Stéphane Sarrazin (2005 Subaru World Rally Team driver) and Kumi Sato.[27]
+
+In 2006, Deeble-Bellchambers Racing UK campaigned a Subaru factory supported WRX STI Spec C in the 24 Hour Nürburgring's SP 6 class. It had Motec Engine Management, 3-way adjustable AST coilovers, aftermarket Brembo brakes, an aftermarket turbocharger unit, STI Group N parts, aero pieces and many other modifications, pushing 400 hp (300 kW). To combat understeer, it ran without a front swaybar. It qualified 37th out of 225 competitors for the starting position. The Autosportif Racing UK/Subaru WRX STI Spec C managed to end with a position of 115 out of the 225, suffering 2 turbocharger unit failures during the course of the race. The car was driven by Alan van de Merwe (the 2003 British F3 champion), Briton Phil Bennett (driven in the BTCC, Le Mans and Nürburgring), Jonathan Price (6-time Nürburg 24 Hours competitor) and Chris Atkinson (2006, 2007 Subaru World Rally Team driver).[28]
+
+Grand-Am Events
+
+In 2011, the Subaru Road Racing Team will be campaigning a 2011 Subaru Impreza WRX STI sedan in the Grand Sport (GS) class of the Grand-Am Continental Tire Sports Car Challenge series.
+
+SCCA Events
+
+In 2005 and 2006, Icy Racing's 2004MY STi's took 1st and 2nd place in Club Racing's T2 division. ESX Motorsports announced the introduction of the WRX STI in World Challenge's GT class in 2005.
+
+Super GT
+
+The Cusco Subaru Impreza in 2008.
+
+The Cusco team have been campaigning a heavily modified STi with a rear drive conversion as required by regulations since the late nineties and having no two-door model available at present, the Super GT committee gave a special permit for them to race with a four-door model instead of a two-door one. The rear drive conversion rule was lifted in 2006, and since then they returned to all-wheel drive with a transaxle gearbox.
+
+In 2008, Cusco's Impreza won the first GT300 race in Sepang. It marked the first AWD car victory in Super GT/JGTC history. Even though they were having very impressive results(with 1 win and 2 podiums) that season, Cusco announced that they would not participate in the 2009 season as they want \ The performance of Cusco was outstanding even though they were using a 4-door car, it later lead the Super GT committee to officially allow all 4-door model cars to participate the series. The Toyota Corolla Axio followed suit in 2009.
+Drifting
+
+D1 Grand Prix
+
+2005: Nobushige Kumakubo is the first to use an GD-chassis WRX STi at the D1 Grand Prix series. The car is extensively modified as regulations permit only two wheel drive cars. This STi is unique in that it is the first to locate a radiator (with the fan beside it) behind the driver rather than in front of the engine compartment as other cars usually do. His other Team Orange teammates, Kazuhiro Tanaka and Naoto Suenaga, soon followed suit.
+
+2006: Team Orange and Jun Autosports have converted a GC-chassis 2-door STi into a RWD vehicle for drifting to be used by third driver Naoto Suenaga. Drivers Nobushige Kumakubo and Kazuhiro Tanaka took a single win each during the 2006 season and the former took the overall D1GP title. 

@@ -1,0 +1,57 @@
+En
+Examples of correct JSON file entries:
+Ru
+Примеры корректной записи JSON файлов:
+
+	-config.json:
+	{
+		"config":{
+			"max_responses":7,
+			"name":"Owl",
+			"version":"1.0"},
+		"files":[
+			"../../../resources/file001.txt",
+			"../../../resources/file002.txt",
+			"../../../resources/file003.txt",
+			"../../../resources/file004.txt",
+			"../../../resources/file005.txt",
+			"../../../resources/file006.txt"]
+	}
+	-requests.json:
+	{
+		"requests":[
+			"request001",
+			"request002",
+			"request003", 
+			"request004"]
+	}
+	-answers.json:
+	{
+		"answers":[
+			{"request0":[
+				{"result":"true"},
+				["relevance",[
+					{"docid":0,"rank":0.059},
+					{"docid":4,"rank":0.001}]]]},
+			{"request1":[
+				{"result":"true"},
+				["relevance",[
+					{"docid":1,"rank":0.045},
+					{"docid":4,"rank":0.006}]]]},
+			{"request2":[
+				{"result":"false"}]},
+			{"request3":[
+				{"result":"true"},
+				["relevance",[
+					{"docid":0,"rank":0.081},
+					{"docid":1,"rank":0.074},
+					{"docid":2,"rank":0.07},
+					{"docid":4,"rank":0.065},
+					{"docid":3,"rank":0.057},
+					{"docid":5,"rank":0.044}]]]},
+			{"request4":[
+				{"result":"true"},
+				["relevance",[
+					{"docid":5,"rank":0.113},
+					{"docid":2,"rank":0.021}]]]}]
+	}	
